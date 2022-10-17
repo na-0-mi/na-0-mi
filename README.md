@@ -2,19 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=random&height=300&section=header&text=Naomi%20Kang&fontColor=FFFFFF&animation=fadeIn&fontSize=90)
 
-### 👋 Hi, I'm Naomi.
+## 👋 Hi, I'm Naomi.
 #### Front-End Developer
 
 <br></br>
 
-### 📚 Blog 📚
+## 📚 Blog 📚
 
 <a href="https://www.notion.so/hanghae99-/Blog-c903442880bc45b0a35be3979b264c56">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 <br></br>
 
-### 📐 Tech Stack 📐
+## 📐 Tech Stack 📐
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
