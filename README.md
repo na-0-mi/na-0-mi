@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=random&height=300&section=header&text=Naomi%20Kang&fontColor=FFFFFF&animation=fadeIn&fontSize=90)
 
 ## 👋 Hi, I'm Naomi.
-#### Front-End Developer
+### Front-End Developer
 
 <br></br>
 
