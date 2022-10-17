@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=random&height=300&section=header&text=Naomi%20Kang&fontColor=FFFFFF&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=random&height=300&section=header&text=Naomi%20Kang&fontColor=FFFFFF&animation=fadeIn&fontSize=90)
 
 ## 👋 Hi, I'm Naomi.
 ### Front-End Developer
