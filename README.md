@@ -7,13 +7,6 @@
 
 <br></br>
 
-## 📚 Blog 📚
-
-<a href="https://www.notion.so/hanghae99-/Blog-c903442880bc45b0a35be3979b264c56">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-
-<br></br>
-
 ## 📐 Tech Stack 📐
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
